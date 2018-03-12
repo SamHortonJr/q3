@@ -1,0 +1,41 @@
+img {	
+	max-width: 15%;
+	float:right;
+	margin: 10px;
+	border: solid black 5px;
+
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+.floatleft {
+	float:left;
+}
+
+li {
+	clear:right;
+}
+
+.wrapper {
+    width:75%;
+    margin:0 auto; 
+    background-color: #A2AAAD;
+    background-size: cover;
+    border-color: #C8102E;
+    border-style: solid ;
+    border-width: 10px;
+    }
+
+
+div{
+	border: 1px solid;
+	color:#0C2340;
+	font-family: Courier;
+}
+

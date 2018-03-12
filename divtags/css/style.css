@@ -1,0 +1,8 @@
+.wrapper {
+    width:80%;
+    margin:0 auto;
+    //background-color:#F8EBE2;
+    background-image: url("https://media0.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif");
+    background-size: cover;
+    font-family: Courier;
+}
